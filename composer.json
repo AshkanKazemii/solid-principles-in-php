@@ -1,0 +1,17 @@
+{
+    "name": "ashkan/solid",
+    "description": "solid principle",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "ashkan kazemi",
+            "email": "ashkan.kazemi.pln@gmail.com"
+        }
+    ],
+    "require": {}
+}
