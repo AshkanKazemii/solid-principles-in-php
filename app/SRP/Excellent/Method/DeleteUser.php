@@ -13,7 +13,7 @@ class DeleteUser
     {
         $data = $request->rules() ;
 
-        $deleteUserRepo->deleteUser($data) ;
+        $deleteUserRepo($data) ;
 
         //return or redirect route 
     }
