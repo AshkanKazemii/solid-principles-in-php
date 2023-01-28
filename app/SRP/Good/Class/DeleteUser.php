@@ -3,10 +3,10 @@
 namespace App\SRP\Good\Class ;
 
 // Does not respect clean code
-class CreateUser
+class DeleteUser
 {
-    public function create()
+    public function delete()
     {
-        // create user
+        // delete user
     }
 }
